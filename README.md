@@ -1,1 +1,1 @@
-# Bitoid-Technologies
+# Bitoid - Full Stack PHP Bootcamp
